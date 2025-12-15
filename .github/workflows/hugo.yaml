@@ -78,6 +78,8 @@ jobs:
           restore-keys:
             hugo-
       - name: Build the site
+        env:
+          HUGO_PARAMS_STATICPATH: ${{ steps.pages.outputs.base_path }}
         run: |
           hugo \
             --gc \

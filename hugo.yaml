@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://javaboymk04.github.io/alif4chan/"
 languageCode: "en-us"
 title: "Muhammad Alif Farchan"
 theme: hugo-profile
@@ -33,7 +33,7 @@ Menus:
     - identifier: gallery
       name: Gallery
       title: Blog posts
-      url: /gallery
+      url: "gallery"
       weight: 1
     - identifier: portfolios
       name: Portfolios
@@ -73,7 +73,7 @@ params:
   title: "M. Alif Farchan"
   description: My personal CV
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+  favicon: "fav.png"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -148,14 +148,14 @@ params:
     title: "Alif"
     subtitle: "I make your brands grow"
     content: "With proven growth track record, I enhance corporate branding & engagement through social media strategies and compelling visual content direction."
-    image: /images/hero.jpg
+    image: "images/hero.jpg"
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
     button:
       enable: true
       name: "Resume"
-      url: "/files/resume-en.pdf"
+      url: "files/resume-en.pdf"
       download: true
       newPage: false
     socialLinks:
@@ -167,7 +167,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.jpg"
+    image: "images/me.jpg"
     content: |-
       A passionate and strategic digital & branding professional with proven track record of Instagram & LinkedIn growth of 69% and 63% over the course of 14 months.
       
