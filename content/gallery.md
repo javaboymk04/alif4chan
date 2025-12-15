@@ -9,8 +9,8 @@ galleryImages:
  - src: "images/gallery/accf-sg.jpg"
  - src: "images/gallery/accf-kl.jpg"
  - src: "images/gallery/swiss.jpg"
- - src: "images/gallery/brazil.jpg"
- - src: "images/gallery/africa.jpg"
+ - src: "images/gallery/brazil.JPG"
+ - src: "images/gallery/africa.JPG"
 viewer : true
 viewerOptions : {
     title: false
