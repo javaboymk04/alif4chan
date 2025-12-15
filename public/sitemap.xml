@@ -2,54 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://javaboymk04.github.io/alif4chan/blogs/</loc>
+    <loc>http://localhost:1313/blogs/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://javaboymk04.github.io/alif4chan/tags/example/</loc>
+    <loc>http://localhost:1313/tags/example/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://javaboymk04.github.io/alif4chan/tags/markdown-syntax/</loc>
+    <loc>http://localhost:1313/tags/markdown-syntax/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://javaboymk04.github.io/alif4chan/tags/mathjax/</loc>
+    <loc>http://localhost:1313/tags/mathjax/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://javaboymk04.github.io/alif4chan/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://javaboymk04.github.io/alif4chan/blogs/math/</loc>
+    <loc>http://localhost:1313/blogs/math/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://javaboymk04.github.io/alif4chan/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://javaboymk04.github.io/alif4chan/gallery/</loc>
+    <loc>http://localhost:1313/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
   </url><url>
-    <loc>https://javaboymk04.github.io/alif4chan/blogs/markdown-syntax/</loc>
+    <loc>http://localhost:1313/blogs/markdown-syntax/</loc>
     <lastmod>2021-04-03T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>https://javaboymk04.github.io/alif4chan/tags/sample/</loc>
+    <loc>http://localhost:1313/tags/sample/</loc>
     <lastmod>2021-04-03T23:29:21+05:30</lastmod>
   </url><url>
-    <loc>https://javaboymk04.github.io/alif4chan/blogs/emoji-support/</loc>
+    <loc>http://localhost:1313/blogs/emoji-support/</loc>
     <lastmod>2021-04-03T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>https://javaboymk04.github.io/alif4chan/tags/emoji-support/</loc>
+    <loc>http://localhost:1313/tags/emoji-support/</loc>
     <lastmod>2021-04-03T22:53:58+05:30</lastmod>
   </url><url>
-    <loc>https://javaboymk04.github.io/alif4chan/blogs/placeholder-text/</loc>
+    <loc>http://localhost:1313/blogs/placeholder-text/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
-    <loc>https://javaboymk04.github.io/alif4chan/tags/placeholder-text/</loc>
+    <loc>http://localhost:1313/tags/placeholder-text/</loc>
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
   </url><url>
-    <loc>https://javaboymk04.github.io/alif4chan/blogs/rich-content/</loc>
+    <loc>http://localhost:1313/blogs/rich-content/</loc>
     <lastmod>2021-04-03T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://javaboymk04.github.io/alif4chan/tags/rich-content/</loc>
+    <loc>http://localhost:1313/tags/rich-content/</loc>
     <lastmod>2021-04-03T19:53:33+05:30</lastmod>
   </url><url>
-    <loc>https://javaboymk04.github.io/alif4chan/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>
